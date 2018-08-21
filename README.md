@@ -14,7 +14,7 @@ Vous devez écrire une fonction `squaresInRect` qui prend deux paramètres :
 
 Et qui retourne qui retourne une liste d'entiers, représentant le côté de chaque carré.
 
-_std::list<int> squaresInRect(unsigned int length, unsigned int width)_
+_std::list\<int\> squaresInRect(unsigned int length, unsigned int width)_
 
 Exemples :
 
